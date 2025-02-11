@@ -1,4 +1,8 @@
 ez nem egy sor
 ez sem egy sor
 ez is nem egy sor
+<<<<<<< HEAD
 ez biztos nem egy sor 
+=======
+negyedik nem sor (Gábor)
+>>>>>>> bugfix
